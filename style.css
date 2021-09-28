@@ -1,0 +1,30 @@
+/* common_general_rules */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	max-width: 1170px;
+	height: auto;
+	margin: 0 auto;
+	background-color: #ffc0cb;
+}
+
+.flex {
+	display: flex;
+}
+/* /common_general_rules */
+
+.line-height {
+	line-height: 200px;
+}
+
+.bg_color {
+	background-color: #f07f80;
+}
+
+.border {
+	border-color: #fff;
+}
